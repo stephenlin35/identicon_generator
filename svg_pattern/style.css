@@ -1,0 +1,63 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(90deg, #0f0c29, #302b63, #24243e); 
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+}
+
+.page {
+    position: relative;
+    top: 50%;
+    transform: translateY(30%);
+}
+
+.text-section {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 160%;
+    line-height: 1.7;
+}
+
+svg {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.btns {
+    margin-top: 16px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Croissant One', cursive;
+}
+
+.btn {
+    margin: 25px 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
